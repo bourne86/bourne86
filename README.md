@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bourne86
 - 👀 I’m interested in creating open source software for policing.
-- 🌱 I love using offline LLMs and Python to create novel solutions in polciing.
+- 🌱 I love using offline LLMs and Python to create novel solutions in policing.
 - 💞️ I’m looking to collaborate!
 - 📫 You can reach out to me on hello@stephenbourne.dev
 

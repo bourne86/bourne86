@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bourne86
 - 👀 I’m interested in creating open source software for policing.
-- 🌱 I’m currently learning flask and postgresql.
-- 💞️ I’m looking to collaborate on open source policing projects.
-- 📫 How to reach me via my LinkedIn profile.
+- 🌱 I love using offline LLMs and Python to create novel solutions in polciing.
+- 💞️ I’m looking to collaborate!
+- 📫 You can reach out to me on my LinkedIn @ hello@stephenbourne.dev
 
 <!---
 bourne86/bourne86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
